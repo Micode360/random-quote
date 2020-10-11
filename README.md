@@ -3,3 +3,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Random Quote
 
 Project description: A front-end framework that runs random qoute. 
+hosted live @: live-quote repo
